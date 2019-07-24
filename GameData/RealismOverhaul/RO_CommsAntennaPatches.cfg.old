@@ -1,0 +1,2606 @@
+// values by Gordon Dry
+// tinker with it if you know better values and then commit it
+//
+
+// first stock and RO
+@PART[probeStackSmall]:NEEDS[!RemoteTech]:BEFORE[zzzRealismOverhaul]
+{
+    MODULE
+    {
+        name = ModuleConfigurableAntenna
+        referenceGain = 1.08
+        isScalable = false
+    }
+}
+
+@PART[probeStackLarge]:NEEDS[!RemoteTech]:BEFORE[zzzRealismOverhaul]
+{
+    MODULE
+    {
+        name = ModuleConfigurableAntenna
+        referenceGain = 1.1
+        isScalable = false
+    }
+}
+
+@PART[probeCoreSphere_v2]:NEEDS[!RemoteTech]:BEFORE[zzzRealismOverhaul]
+{
+    MODULE
+    {
+        name = ModuleConfigurableAntenna
+        referenceGain = 1.06
+        isScalable = false
+    }
+}
+
+@PART[roverBody_v2]:NEEDS[!RemoteTech]:BEFORE[zzzRealismOverhaul]
+{
+    MODULE
+    {
+        name = ModuleConfigurableAntenna
+        referenceGain = 1.05
+        isScalable = false
+    }
+}
+
+@PART[probeCoreHex]:NEEDS[!RemoteTech]:BEFORE[zzzRealismOverhaul]
+{
+    MODULE
+    {
+        name = ModuleConfigurableAntenna
+        referenceGain = 1.06
+        isScalable = false
+    }
+}
+
+@PART[probeCoreHex_v2]:NEEDS[!RemoteTech]:BEFORE[zzzRealismOverhaul]
+{
+    MODULE
+    {
+        name = ModuleConfigurableAntenna
+        referenceGain = 1.08
+        isScalable = false
+    }
+}
+
+@PART[RO_surveyorCore]:NEEDS[!RemoteTech]:BEFORE[zzzRealismOverhaul]
+{
+    MODULE
+    {
+        name = ModuleConfigurableAntenna
+        referenceGain = 1.07
+        isScalable = false
+    }
+}
+
+@PART[HECS2_ProbeCore]:NEEDS[!RemoteTech]:BEFORE[zzzRealismOverhaul]
+{
+    MODULE
+    {
+        name = ModuleConfigurableAntenna
+        referenceGain = 1.07
+        isScalable = false
+    }
+}
+
+@PART[RO_boeing702]:NEEDS[!RemoteTech]:BEFORE[zzzRealismOverhaul]
+{
+    MODULE
+    {
+        name = ModuleConfigurableAntenna
+        referenceGain = 1.11
+        isScalable = false
+    }
+}
+
+@PART[RO_earlyControllableCore]:NEEDS[!RemoteTech]:BEFORE[zzzRealismOverhaul]
+{
+    MODULE
+    {
+        name = ModuleConfigurableAntenna
+        referenceGain = 1.05
+        isScalable = false
+    }
+}
+
+@PART[probeCoreCube]:NEEDS[!RemoteTech]:BEFORE[zzzRealismOverhaul]
+{
+    MODULE
+    {
+        name = ModuleConfigurableAntenna
+        referenceGain = 1.11
+        isScalable = false
+    }
+}
+
+@PART[RO_probeCoreCubeEarly]:NEEDS[!RemoteTech]:BEFORE[zzzRealismOverhaul]
+{
+    MODULE
+    {
+        name = ModuleConfigurableAntenna
+        referenceGain = 1.09
+        isScalable = false
+    }
+}
+
+@PART[RO_probeCoreCubeMedium]:NEEDS[!RemoteTech]:BEFORE[zzzRealismOverhaul]
+{
+    MODULE
+    {
+        name = ModuleConfigurableAntenna
+        referenceGain = 1.1
+        isScalable = false
+    }
+}
+
+@PART[ROAdvCapsule]:NEEDS[!RemoteTech]:BEFORE[zzzRealismOverhaul]
+{
+    MODULE
+    {
+        name = ModuleConfigurableAntenna
+        referenceGain = 1.31
+        isScalable = false
+    }
+}
+
+@PART[Mark2Cockpit]:NEEDS[!RemoteTech]:BEFORE[zzzRealismOverhaul]
+{
+    MODULE
+    {
+        name = ModuleConfigurableAntenna
+        referenceGain = 1.1
+        isScalable = false
+    }
+}
+
+@PART[MK1CrewCabin]:NEEDS[!RemoteTech]:BEFORE[zzzRealismOverhaul]
+{
+    MODULE
+    {
+        name = ModuleConfigurableAntenna
+        referenceGain = 1.14
+        isScalable = false
+    }
+}
+
+@PART[RO-Mk1Cockpit]:NEEDS[!RemoteTech]:BEFORE[zzzRealismOverhaul]
+{
+    MODULE
+    {
+        name = ModuleConfigurableAntenna
+        referenceGain = 1.12
+        isScalable = false
+    }
+}
+
+@PART[RO-Mk1CockpitInline]:NEEDS[!RemoteTech]:BEFORE[zzzRealismOverhaul]
+{
+    MODULE
+    {
+        name = ModuleConfigurableAntenna
+        referenceGain = 1.12
+        isScalable = false
+    }
+}
+
+@PART[cupola]:NEEDS[!RemoteTech]:BEFORE[zzzRealismOverhaul]
+{
+    MODULE
+    {
+        name = ModuleConfigurableAntenna
+        referenceGain = 1.13
+        isScalable = false
+    }
+}
+
+@PART[landerCabinSmall]:NEEDS[!RemoteTech]:BEFORE[zzzRealismOverhaul]
+{
+    MODULE
+    {
+        name = ModuleConfigurableAntenna
+        referenceGain = 1.09
+        isScalable = false
+    }
+}
+
+@PART[landerCabinMedium]:NEEDS[!RemoteTech]:BEFORE[zzzRealismOverhaul]
+{
+    MODULE
+    {
+        name = ModuleConfigurableAntenna
+        referenceGain = 1.12
+        isScalable = false
+    }
+}
+
+@PART[mk1pod_v2]:NEEDS[!RemoteTech]:BEFORE[zzzRealismOverhaul]
+{
+    MODULE
+    {
+        name = ModuleConfigurableAntenna
+        referenceGain = 1.1
+        isScalable = false
+    }
+}
+
+@PART[mk2LanderCabin]:NEEDS[!RemoteTech]:BEFORE[zzzRealismOverhaul]
+{
+    MODULE
+    {
+        name = ModuleConfigurableAntenna
+        referenceGain = 1.14
+        isScalable = false
+    }
+}
+
+@PART[mk2LanderCabin_v2]:NEEDS[!RemoteTech]:BEFORE[zzzRealismOverhaul]
+{
+    MODULE
+    {
+        name = ModuleConfigurableAntenna
+        referenceGain = 1.14
+        isScalable = false
+    }
+}
+
+@PART[mk1pod]:NEEDS[!RemoteTech]:BEFORE[zzzRealismOverhaul]
+{
+    MODULE
+    {
+        name = ModuleConfigurableAntenna
+        referenceGain = 1.11
+        isScalable = false
+    }
+}
+
+@PART[Mark1-2Pod]:NEEDS[!RemoteTech]:BEFORE[zzzRealismOverhaul]
+{
+    MODULE
+    {
+        name = ModuleConfigurableAntenna
+        referenceGain = 1.16
+        isScalable = false
+    }
+}
+
+@PART[mk1-3pod]:NEEDS[!RemoteTech]:BEFORE[zzzRealismOverhaul]
+{
+    MODULE
+    {
+        name = ModuleConfigurableAntenna
+        referenceGain = 1.16
+        isScalable = false
+    }
+}
+
+@PART[mk2Cockpit_Standard]:NEEDS[!RemoteTech]:BEFORE[zzzRealismOverhaul]
+{
+    MODULE
+    {
+        name = ModuleConfigurableAntenna
+        referenceGain = 1.13
+        isScalable = false
+    }
+}
+
+@PART[mk2CockpitInline]:NEEDS[!RemoteTech]:BEFORE[zzzRealismOverhaul]
+{
+    MODULE
+    {
+        name = ModuleConfigurableAntenna
+        referenceGain = 1.12
+        isScalable = false
+    }
+}
+
+@PART[mk2DroneCore]:NEEDS[!RemoteTech]:BEFORE[zzzRealismOverhaul]
+{
+    MODULE
+    {
+        name = ModuleConfigurableAntenna
+        referenceGain = 1.09
+        isScalable = false
+    }
+}
+
+@PART[mk3Cockpit_Shuttle]:NEEDS[!RemoteTech]:BEFORE[zzzRealismOverhaul]
+{
+    MODULE
+    {
+        name = ModuleConfigurableAntenna
+        referenceGain = 1.16
+        isScalable = false
+    }
+}
+
+@PART[GuidanceEarly3m]:NEEDS[!RemoteTech]:BEFORE[zzzRealismOverhaul]
+{
+    MODULE
+    {
+        name = ModuleConfigurableAntenna
+        referenceGain = 1.1
+        isScalable = false
+    }
+}
+
+@PART[GuidanceEarly2m]:NEEDS[!RemoteTech]:BEFORE[zzzRealismOverhaul]
+{
+    MODULE
+    {
+        name = ModuleConfigurableAntenna
+        referenceGain = 1.08
+        isScalable = false
+    }
+}
+
+@PART[GuidanceStart1m]:NEEDS[!RemoteTech]:BEFORE[zzzRealismOverhaul]
+{
+    MODULE
+    {
+        name = ModuleConfigurableAntenna
+        referenceGain = 1.09
+        isScalable = false
+    }
+}
+
+@PART[GuidanceStart4m]:NEEDS[!RemoteTech]:BEFORE[zzzRealismOverhaul]
+{
+    MODULE
+    {
+        name = ModuleConfigurableAntenna
+        referenceGain = 1.14
+        isScalable = false
+    }
+}
+
+@PART[GuidanceEarly1m]:NEEDS[!RemoteTech]:BEFORE[zzzRealismOverhaul]
+{
+    MODULE
+    {
+        name = ModuleConfigurableAntenna
+        referenceGain = 1.1
+        isScalable = false
+    }
+}
+
+@PART[GuidanceLate1m]:NEEDS[!RemoteTech]:BEFORE[zzzRealismOverhaul]
+{
+    MODULE
+    {
+        name = ModuleConfigurableAntenna
+        referenceGain = 1.15
+        isScalable = false
+    }
+}
+
+// second RP-1
+@PART[proceduralAvionics]:NEEDS[!RemoteTech,RP-0]:BEFORE[zzzRealismOverhaul]
+{
+    MODULE
+    {
+        name = ModuleConfigurableAntenna
+        referenceGain = 1.15
+        isScalable = false
+    }
+}
+
+@PART[RP0-SampleReturnCommand]:NEEDS[!RemoteTech,RP-0]:BEFORE[zzzRealismOverhaul]
+{
+    MODULE
+    {
+        name = ModuleConfigurableAntenna
+        referenceGain = 1.02
+        isScalable = false
+    }
+}
+
+@PART[RP0probeAvionics66m]:NEEDS[!RemoteTech]:BEFORE[zzzRealismOverhaul]
+{
+    MODULE
+    {
+        name = ModuleConfigurableAntenna
+        referenceGain = 1.14
+        isScalable = false
+    }
+}
+
+@PART[RP0Nose-Cockpit]:NEEDS[!RemoteTech]:BEFORE[zzzRealismOverhaul]
+{
+    MODULE
+    {
+        name = ModuleConfigurableAntenna
+        referenceGain = 1.09
+        isScalable = false
+    }
+}
+
+@PART[RP0probeSounding0-3m]:NEEDS[!RemoteTech]:BEFORE[zzzRealismOverhaul]
+{
+    MODULE
+    {
+        name = ModuleConfigurableAntenna
+        referenceGain = 1.04
+        isScalable = false
+    }
+}
+
+@PART[RP0aerobeeSounding]:NEEDS[!RemoteTech]:BEFORE[zzzRealismOverhaul]
+{
+    MODULE
+    {
+        name = ModuleConfigurableAntenna
+        referenceGain = 1.04
+        isScalable = false
+    }
+}
+
+@PART[RP0probeVanguardXray]:NEEDS[!RemoteTech]:BEFORE[zzzRealismOverhaul]
+{
+    MODULE
+    {
+        name = ModuleConfigurableAntenna
+        referenceGain = 1.03
+        isScalable = false
+    }
+}
+
+@PART[RP0probeAvionics0-81m]:NEEDS[!RemoteTech]:BEFORE[zzzRealismOverhaul]
+{
+    MODULE
+    {
+        name = ModuleConfigurableAntenna
+        referenceGain = 1.07
+        isScalable = false
+    }
+}
+
+@PART[RP0probeAvionics1-5m]:NEEDS[!RemoteTech]:BEFORE[zzzRealismOverhaul]
+{
+    MODULE
+    {
+        name = ModuleConfigurableAntenna
+        referenceGain = 1.08
+        isScalable = false
+    }
+}
+
+@PART[RP0probeAvionics3-05m]:NEEDS[!RemoteTech]:BEFORE[zzzRealismOverhaul]
+{
+    MODULE
+    {
+        name = ModuleConfigurableAntenna
+        referenceGain = 1.09
+        isScalable = false
+    }
+}
+
+@PART[RP0probeAvionics1-4m]:NEEDS[!RemoteTech]:BEFORE[zzzRealismOverhaul]
+{
+    MODULE
+    {
+        name = ModuleConfigurableAntenna
+        referenceGain = 1.08
+        isScalable = false
+    }
+}
+
+// then the others
+
+// Coatl Aerospace
+@PART[ca_vor_comm]:NEEDS[!RemoteTech]:BEFORE[zzzRealismOverhaul]
+{
+    MODULE
+    {
+        name = ModuleConfigurableAntenna
+        referenceGain = 1.1
+    }
+}
+
+@PART[ca_vor_dish]:NEEDS[!RemoteTech]:BEFORE[zzzRealismOverhaul]
+{
+    MODULE
+    {
+        name = ModuleConfigurableAntenna
+        diameter = 1.6
+    }
+}
+
+@PART[antenna_cone_toggle]:NEEDS[!RemoteTech]:BEFORE[zzzRealismOverhaul]
+{
+    MODULE
+    {
+        name = ModuleConfigurableAntenna
+        referenceGain = 1.15
+    }
+}
+
+@PART[antenna_quetzal]:NEEDS[!RemoteTech]:BEFORE[zzzRealismOverhaul]
+{
+    MODULE
+    {
+        name = ModuleConfigurableAntenna
+        referenceGain = 1.05
+    }
+}
+
+@PART[dish_deploy_S]:NEEDS[!RemoteTech]:BEFORE[zzzRealismOverhaul]
+{
+    MODULE
+    {
+        name = ModuleConfigurableAntenna
+        diameter = 1
+    }
+}
+
+@PART[ca_ant_gps]:NEEDS[!RemoteTech]:BEFORE[zzzRealismOverhaul]
+{
+    MODULE
+    {
+        name = ModuleConfigurableAntenna
+        referenceGain = 1.16
+    }
+}
+
+@PART[mer_dish]:NEEDS[!RemoteTech]:BEFORE[zzzRealismOverhaul]
+{
+    MODULE
+    {
+        name = ModuleConfigurableAntenna
+        diameter = 3.9624
+    }
+}
+
+@PART[dish_hera]:NEEDS[!RemoteTech]:BEFORE[zzzRealismOverhaul]
+{
+    MODULE
+    {
+        name = ModuleConfigurableAntenna
+        diameter = 2.25
+    }
+}
+
+@PART[ca_argo-mk2-hga]:NEEDS[!RemoteTech]:BEFORE[zzzRealismOverhaul]
+{
+    MODULE
+    {
+        name = ModuleConfigurableAntenna
+        diameter = 0.58
+    }
+}
+
+@PART[ca_argo-mk2-mast]:NEEDS[!RemoteTech]:BEFORE[zzzRealismOverhaul]
+{
+    MODULE
+    {
+        name = ModuleConfigurableAntenna
+        referenceGain = 1.25
+    }
+}
+
+@PART[dish_deploy_S2]:NEEDS[!RemoteTech]:BEFORE[zzzRealismOverhaul]
+{
+    MODULE
+    {
+        name = ModuleConfigurableAntenna
+        diameter = 0.56
+    }
+}
+
+@PART[dish_tatsujin]:NEEDS[!RemoteTech]:BEFORE[zzzRealismOverhaul]
+{
+    MODULE
+    {
+        name = ModuleConfigurableAntenna
+        diameter = 1.9812
+    }
+}
+
+@PART[dish_quetzal]:NEEDS[!RemoteTech]:BEFORE[zzzRealismOverhaul]
+{
+    MODULE
+    {
+        name = ModuleConfigurableAntenna
+        diameter = 2.74
+    }
+}
+
+@PART[dish_xihe]:NEEDS[!RemoteTech]:BEFORE[zzzRealismOverhaul]
+{
+    MODULE
+    {
+        name = ModuleConfigurableAntenna
+        diameter = 1.2
+    }
+}
+
+@PART[ca_landv_core]:NEEDS[!RemoteTech]:BEFORE[zzzRealismOverhaul]
+{
+    MODULE
+    {
+        name = ModuleConfigurableAntenna
+        referenceGain = 1.07
+    }
+}
+
+@PART[ca_landv_omni]:NEEDS[!RemoteTech]:BEFORE[zzzRealismOverhaul]
+{
+    MODULE
+    {
+        name = ModuleConfigurableAntenna
+        referenceGain = 1.15
+    }
+}
+
+@PART[ca_landv_hga]:NEEDS[!RemoteTech]:BEFORE[zzzRealismOverhaul]
+{
+    MODULE
+    {
+        name = ModuleConfigurableAntenna
+        referenceGain = 3.25
+    }
+}
+
+@PART[ca_landv_orbiter_core]:NEEDS[!RemoteTech]:BEFORE[zzzRealismOverhaul]
+{
+    MODULE
+    {
+        name = ModuleConfigurableAntenna
+        referenceGain = 1.07
+    }
+}
+
+@PART[ca_landv_orbiter_HGA]:NEEDS[!RemoteTech]:BEFORE[zzzRealismOverhaul]
+{
+    MODULE
+    {
+        name = ModuleConfigurableAntenna
+        referenceGain = 2.25
+    }
+}
+
+@PART[dish_S]:NEEDS[!RemoteTech]:BEFORE[zzzRealismOverhaul]
+{
+    MODULE
+    {
+        name = ModuleConfigurableAntenna
+        diameter = 1.65
+    }
+}
+
+@PART[dish_L]:NEEDS[!RemoteTech]:BEFORE[zzzRealismOverhaul]
+{
+    MODULE
+    {
+        name = ModuleConfigurableAntenna
+        diameter = 3.6576
+    }
+}
+
+// CommNetAntennasExtension
+@PART[caeDeployableAntenna]:NEEDS[!RemoteTech]:BEFORE[zzzRealismOverhaul]
+{
+    MODULE
+    {
+        name = ModuleConfigurableAntenna
+        diameter = 0.8
+    }
+}
+
+//CxAerospace
+@PART[CXA_KU_ANTENNA]:NEEDS[!RemoteTech]:BEFORE[zzzRealismOverhaul]
+{
+    MODULE
+    {
+        name = ModuleConfigurableAntenna
+        diameter = 1.7
+    }
+}
+
+@PART[CXA_Z1]:NEEDS[!RemoteTech]:BEFORE[zzzRealismOverhaul]
+{
+    MODULE
+    {
+        name = ModuleConfigurableAntenna
+        referenceGain = 1.2
+        isScalable = false
+    }
+}
+
+// DMagicOrbitalScience
+// @PART[dmSIGINT.Small]:NEEDS[!RemoteTech]:BEFORE[zzzRealismOverhaul]
+// {
+    // MODULE
+    // {
+        // name = ModuleConfigurableAntenna
+        // diameter = 52
+        // isScalable = false
+    // }
+    // MODULE
+    // {
+        // name = ModuleDeployableAntenna
+        // showStatus = true
+        // isTracking = false
+        // pivotName = armPivot.005
+        // windResistance = 0.01
+        // animationName = dishDeploy
+    // }
+// }
+
+// @PART[dmSIGINT.End]:NEEDS[!RemoteTech]:BEFORE[zzzRealismOverhaul]
+// {
+    // MODULE
+    // {
+        // name = ModuleConfigurableAntenna
+        // diameter = 105.4
+        // isScalable = false
+    // }
+    // MODULE
+    // {
+        // name = ModuleDeployableAntenna
+        // showStatus = true
+        // isTracking = false
+        // pivotName = armBase.001
+        // windResistance = 0.001
+        // animationName = dishDeploy
+    // }
+// }
+
+// FASA
+@PART[FASAApollo_SM_Dish]:NEEDS[!RemoteTech]:BEFORE[zzzRealismOverhaul]
+{
+    MODULE
+    {
+        name = ModuleConfigurableAntenna
+        diameter = 3
+        isScalable = false
+    }
+}
+
+@PART[FASAApollo_CM]:NEEDS[!RemoteTech]:BEFORE[zzzRealismOverhaul]
+{
+    MODULE
+    {
+        name = ModuleConfigurableAntenna
+        referenceGain = 1.17
+        isScalable = false
+    }
+}
+
+@PART[FASAApolloIU]:NEEDS[!RemoteTech]:BEFORE[zzzRealismOverhaul]
+{
+    MODULE
+    {
+        name = ModuleConfigurableAntenna
+        referenceGain = 1.12
+        isScalable = false
+    }
+}
+
+@PART[FASAApalloLFTJ2Plate]:NEEDS[!RemoteTech]:BEFORE[zzzRealismOverhaul]
+{
+    MODULE
+    {
+        name = ModuleConfigurableAntenna
+        referenceGain = 1.13
+        isScalable = false
+    }
+}
+
+@PART[FASALM_Antenna]:NEEDS[!RemoteTech]:BEFORE[zzzRealismOverhaul]
+{
+    MODULE
+    {
+        name = ModuleConfigurableAntenna
+        referenceGain = 1.56
+        isScalable = false
+    }
+}
+
+@PART[FASALM_AscentStage]:NEEDS[!RemoteTech]:BEFORE[zzzRealismOverhaul]
+{
+    MODULE
+    {
+        name = ModuleConfigurableAntenna
+        referenceGain = 1.13
+        isScalable = false
+    }
+}
+
+@PART[FASAALSEP_Device]:NEEDS[!RemoteTech]:BEFORE[zzzRealismOverhaul]
+{
+    MODULE
+    {
+        name = ModuleConfigurableAntenna
+        referenceGain = 1.05
+        isScalable = false
+    }
+}
+
+@PART[FASAALSEP_Reflector]:NEEDS[!RemoteTech]:BEFORE[zzzRealismOverhaul]
+{
+    MODULE
+    {
+        name = ModuleConfigurableAntenna
+        referenceGain = 1.04
+        isScalable = false
+    }
+}
+
+@PART[FASAALSEP_Scanner]:NEEDS[!RemoteTech]:BEFORE[zzzRealismOverhaul]
+{
+    MODULE
+    {
+        name = ModuleConfigurableAntenna
+        referenceGain = 1.05
+        isScalable = false
+    }
+}
+
+@PART[FASAAgenaAnt]:NEEDS[!RemoteTech]:BEFORE[zzzRealismOverhaul]
+{
+    MODULE
+    {
+        name = ModuleConfigurableAntenna
+        referenceGain = 1.4
+        isScalable = false
+    }
+}
+
+@PART[FASAAgenaProbe]:NEEDS[!RemoteTech]:BEFORE[zzzRealismOverhaul]
+{
+    MODULE
+    {
+        name = ModuleConfigurableAntenna
+        referenceGain = 1.08
+        isScalable = false
+    }
+}
+
+@PART[FASA_Gemini_ASAS_Comp]:NEEDS[!RemoteTech]:BEFORE[zzzRealismOverhaul]
+{
+    MODULE
+    {
+        name = ModuleConfigurableAntenna
+        referenceGain = 1.3
+        isScalable = false
+    }
+}
+
+@PART[FASA_Gemini_Lander_Pod]:NEEDS[!RemoteTech]:BEFORE[zzzRealismOverhaul]
+{
+    MODULE
+    {
+        name = ModuleConfigurableAntenna
+        referenceGain = 1.07
+        isScalable = false
+    }
+}
+
+@PART[FASAGeminiAntenna]:NEEDS[!RemoteTech]:BEFORE[zzzRealismOverhaul]
+{
+    MODULE
+    {
+        name = ModuleConfigurableAntenna
+        referenceGain = 1.3
+        isScalable = false
+    }
+}
+
+@PART[FASAGeminiPod2,FASAGeminiPod2White]:NEEDS[!RemoteTech]:BEFORE[zzzRealismOverhaul]
+{
+    MODULE
+    {
+        name = ModuleConfigurableAntenna
+        referenceGain = 1.11
+        isScalable = false
+    }
+}
+
+@PART[FASAICBMProbe]:NEEDS[!RemoteTech]:BEFORE[zzzRealismOverhaul]
+{
+    MODULE
+    {
+        name = ModuleConfigurableAntenna
+        referenceGain = 1.06
+        isScalable = false
+    }
+}
+
+@PART[FASAMercruyCap2]:NEEDS[!RemoteTech]:BEFORE[zzzRealismOverhaul]
+{
+    MODULE
+    {
+        name = ModuleConfigurableAntenna
+        referenceGain = 1.15
+        isScalable = false
+    }
+}
+
+@PART[FASAMercuryPod]:NEEDS[!RemoteTech]:BEFORE[zzzRealismOverhaul]
+{
+    MODULE
+    {
+        name = ModuleConfigurableAntenna
+        referenceGain = 1.11
+        isScalable = false
+    }
+}
+
+@PART[FASAExplorerNosecone]:NEEDS[!RemoteTech]:BEFORE[zzzRealismOverhaul]
+{
+    MODULE
+    {
+        name = ModuleConfigurableAntenna
+        referenceGain = 1.12
+        isScalable = false
+    }
+}
+
+@PART[FASAExplorerProbe]:NEEDS[!RemoteTech]:BEFORE[zzzRealismOverhaul]
+{
+    MODULE
+    {
+        name = ModuleConfigurableAntenna
+        referenceGain = 1.03
+        isScalable = false
+    }
+}
+
+@PART[FASAApolloSubSat]:NEEDS[!RemoteTech]:BEFORE[zzzRealismOverhaul]
+{
+    MODULE
+    {
+        name = ModuleConfigurableAntenna
+        referenceGain = 1.05
+        isScalable = false
+    }
+}
+
+@PART[FASAApollo_SubSatAnt]:NEEDS[!RemoteTech]:BEFORE[zzzRealismOverhaul]
+{
+    MODULE
+    {
+        name = ModuleConfigurableAntenna
+        referenceGain = 1.3
+        isScalable = false
+    }
+}
+
+@PART[FASAPioneerAnt]:NEEDS[!RemoteTech]:BEFORE[zzzRealismOverhaul]
+{
+    MODULE
+    {
+        name = ModuleConfigurableAntenna
+        referenceGain = 1.52
+        isScalable = false
+    }
+}
+
+@PART[FASAPioneerProbe]:NEEDS[!RemoteTech]:BEFORE[zzzRealismOverhaul]
+{
+    MODULE
+    {
+        name = ModuleConfigurableAntenna
+        referenceGain = 1.08
+        isScalable = false
+    }
+}
+
+
+// JX2Antenna
+@PART[ju1MDA]:NEEDS[!RemoteTech]:BEFORE[zzzRealismOverhaul]
+{
+    MODULE
+    {
+        name = ModuleConfigurableAntenna
+        diameter = 6.2
+        isScalable = false
+    }
+}
+
+@PART[jw1MDA]:NEEDS[!RemoteTech]:BEFORE[zzzRealismOverhaul]
+{
+    MODULE
+    {
+        name = ModuleConfigurableAntenna
+        diameter = 5.0
+        isScalable = false
+    }
+}
+
+@PART[jx2LDA]:NEEDS[!RemoteTech]:BEFORE[zzzRealismOverhaul]
+{
+    MODULE
+    {
+        name = ModuleConfigurableAntenna
+        diameter = 21.0
+        isScalable = false
+    }
+}
+
+// KerbalGPS
+@PART[FigaroTransmitter]:NEEDS[!RemoteTech]:BEFORE[zzzRealismOverhaul]
+{
+    MODULE
+    {
+        name = ModuleConfigurableAntenna
+        referenceGain = 1.5
+        isScalable = false
+    }
+}
+
+@PART[FigaroReceiver]:NEEDS[!RemoteTech]:BEFORE[zzzRealismOverhaul]
+{
+    MODULE
+    {
+        name = ModuleConfigurableAntenna
+        referenceGain = 1.05
+        isScalable = false
+    }
+}
+
+// MechJeb2
+@PART[mumech_MJ2_AR202]:NEEDS[!RemoteTech]:BEFORE[zzzRealismOverhaul]
+{
+    MODULE
+    {
+        name = ModuleConfigurableAntenna
+        referenceGain = 1.01
+        isScalable = false
+    }
+}
+
+// NAU/ORIGAMI
+@PART[NAU_ORI350Gm]:NEEDS[!RemoteTech]:BEFORE[zzzRealismOverhaul]
+{
+    MODULE
+    {
+        name = ModuleConfigurableAntenna
+        diameter = 4.2
+    }
+}
+
+@PART[NAU_ORI69Gm]:NEEDS[!RemoteTech]:BEFORE[zzzRealismOverhaul]
+{
+    MODULE
+    {
+        name = ModuleConfigurableAntenna
+        diameter = 2.8
+    }
+}
+
+// NearFutureConstruction
+@PART[truss-octo-drone-01]:NEEDS[!RemoteTech]:BEFORE[zzzRealismOverhaul]
+{
+    MODULE
+    {
+        name = ModuleConfigurableAntenna
+        referenceGain = 1.13
+        isScalable = false
+    }
+}
+
+// ReStockPlus
+@PART[restock-antenna-stack-2]:NEEDS[!RemoteTech]:BEFORE[zzzRealismOverhaul]
+{
+    MODULE
+    {
+        name = ModuleConfigurableAntenna
+        diameter = 0.95
+    }
+}
+
+@PART[restock-antenna-stack-3]:NEEDS[!RemoteTech]:BEFORE[zzzRealismOverhaul]
+{
+    MODULE
+    {
+        name = ModuleConfigurableAntenna
+        diameter = 1.3
+    }
+}
+
+@PART[restock-relay-radial-2]:NEEDS[!RemoteTech]:BEFORE[zzzRealismOverhaul]
+{
+    MODULE
+    {
+        name = ModuleConfigurableAntenna
+        diameter = 2.08
+    }
+}
+
+@PART[RO-SaturnI-IU]:NEEDS[!RemoteTech]:BEFORE[zzzRealismOverhaul]
+{
+    MODULE
+    {
+        name = ModuleConfigurableAntenna
+        referenceGain = 1.12
+        isScalable = false
+    }
+}
+
+@PART[restock-drone-core-375-1]:NEEDS[!RemoteTech]:BEFORE[zzzRealismOverhaul]
+{
+    MODULE
+    {
+        name = ModuleConfigurableAntenna
+        referenceGain = 1.13
+        isScalable = false
+    }
+}
+
+// RN_Cygnus
+@PART[rn_cygnus]:NEEDS[!RemoteTech]:BEFORE[zzzRealismOverhaul]
+{
+    MODULE
+    {
+        name = ModuleConfigurableAntenna
+        referenceGain = 1.43
+        isScalable = false
+    }
+}
+
+@PART[rn_cygnus_e]:NEEDS[!RemoteTech]:BEFORE[zzzRealismOverhaul]
+{
+    MODULE
+    {
+        name = ModuleConfigurableAntenna
+        referenceGain = 1.45
+        isScalable = false
+    }
+}
+
+
+// RN_Salyut
+@PART[almaz3-5]:NEEDS[!RemoteTech]:BEFORE[zzzRealismOverhaul]
+{
+    MODULE
+    {
+        name = ModuleConfigurableAntenna
+        referenceGain = 1.72
+        isScalable = false
+    }
+}
+
+@PART[almaz_sample_return]:NEEDS[!RemoteTech]:BEFORE[zzzRealismOverhaul]
+{
+    MODULE
+    {
+        name = ModuleConfigurableAntenna
+        referenceGain = 1.17
+        isScalable = false
+    }
+}
+
+@PART[salyut1-4]:NEEDS[!RemoteTech]:BEFORE[zzzRealismOverhaul]
+{
+    MODULE
+    {
+        name = ModuleConfigurableAntenna
+        referenceGain = 1.73
+        isScalable = false
+    }
+}
+
+@PART[salyut6]:NEEDS[!RemoteTech]:BEFORE[zzzRealismOverhaul]
+{
+    MODULE
+    {
+        name = ModuleConfigurableAntenna
+        referenceGain = 1.75
+        isScalable = false
+    }
+}
+
+@PART[salyut7]:NEEDS[!RemoteTech]:BEFORE[zzzRealismOverhaul]
+{
+    MODULE
+    {
+        name = ModuleConfigurableAntenna
+        referenceGain = 1.75
+        isScalable = false
+    }
+}
+
+@PART[salyut_asas]:NEEDS[!RemoteTech]:BEFORE[zzzRealismOverhaul]
+{
+    MODULE
+    {
+        name = ModuleConfigurableAntenna
+        referenceGain = 1.03
+        isScalable = false
+    }
+}
+
+
+// RN_Skylab
+@PART[skylab]:NEEDS[!RemoteTech]:BEFORE[zzzRealismOverhaul]
+{
+    MODULE
+    {
+        name = ModuleConfigurableAntenna
+        diameter = 1.15
+        isScalable = false
+    }
+}
+
+@PART[skylab-trs]:NEEDS[!RemoteTech]:BEFORE[zzzRealismOverhaul]
+{
+    MODULE
+    {
+        name = ModuleConfigurableAntenna
+        referenceGain = 2.14
+        isScalable = false
+    }
+}
+
+@PART[skylab_asas]:NEEDS[!RemoteTech]:BEFORE[zzzRealismOverhaul]
+{
+    MODULE
+    {
+        name = ModuleConfigurableAntenna
+        referenceGain = 1.01
+        isScalable = false
+    }
+}
+
+// RN_Soyuz
+@PART[rn_astp_bo]:NEEDS[!RemoteTech]:BEFORE[zzzRealismOverhaul]
+{
+    MODULE
+    {
+        name = ModuleConfigurableAntenna
+        referenceGain = 2.26
+        isScalable = false
+    }
+}
+
+@PART[rn_lk_lander]:NEEDS[!RemoteTech]:BEFORE[zzzRealismOverhaul]
+{
+    MODULE
+    {
+        name = ModuleConfigurableAntenna
+        referenceGain = 1.4
+        isScalable = false
+    }
+}
+
+@PART[rn_lk_lander_legs]:NEEDS[!RemoteTech]:BEFORE[zzzRealismOverhaul]
+{
+    MODULE
+    {
+        name = ModuleConfigurableAntenna
+        referenceGain = 3.19
+        isScalable = false
+    }
+}
+
+@PART[rn_lok_bo]:NEEDS[!RemoteTech]:BEFORE[zzzRealismOverhaul]
+{
+    MODULE
+    {
+        name = ModuleConfigurableAntenna
+        referenceGain = 2.34
+        isScalable = false
+    }
+}
+
+@PART[rn_lok_sa]:NEEDS[!RemoteTech]:BEFORE[zzzRealismOverhaul]
+{
+    MODULE
+    {
+        name = ModuleConfigurableAntenna
+        referenceGain = 1.45
+        isScalable = false
+    }
+}
+
+@PART[rn_lok_tdu]:NEEDS[!RemoteTech]:BEFORE[zzzRealismOverhaul]
+{
+    MODULE
+    {
+        name = ModuleConfigurableAntenna
+        referenceGain = 2.16
+        isScalable = false
+    }
+}
+
+@PART[ok_bo_fem]:NEEDS[!RemoteTech]:BEFORE[zzzRealismOverhaul]
+{
+    MODULE
+    {
+        name = ModuleConfigurableAntenna
+        referenceGain = 2.18
+        isScalable = false
+    }
+}
+
+@PART[ok_bo_male]:NEEDS[!RemoteTech]:BEFORE[zzzRealismOverhaul]
+{
+    MODULE
+    {
+        name = ModuleConfigurableAntenna
+        referenceGain = 2.18
+        isScalable = false
+    }
+}
+
+@PART[ok_sa]:NEEDS[!RemoteTech]:BEFORE[zzzRealismOverhaul]
+{
+    MODULE
+    {
+        name = ModuleConfigurableAntenna
+        referenceGain = 1.46
+        isScalable = false
+    }
+}
+
+@PART[ok_tft]:NEEDS[!RemoteTech]:BEFORE[zzzRealismOverhaul]
+{
+    MODULE
+    {
+        name = ModuleConfigurableAntenna
+        referenceGain = 2.06
+        isScalable = false
+    }
+}
+
+@PART[t_af_bo]:NEEDS[!RemoteTech]:BEFORE[zzzRealismOverhaul]
+{
+    MODULE
+    {
+        name = ModuleConfigurableAntenna
+        referenceGain = 2.18
+        isScalable = false
+    }
+}
+
+@PART[t_pao]:NEEDS[!RemoteTech]:BEFORE[zzzRealismOverhaul]
+{
+    MODULE
+    {
+        name = ModuleConfigurableAntenna
+        referenceGain = 3.25
+        isScalable = false
+    }
+}
+
+@PART[t_pao2]:NEEDS[!RemoteTech]:BEFORE[zzzRealismOverhaul]
+{
+    MODULE
+    {
+        name = ModuleConfigurableAntenna
+        referenceGain = 3.23
+        isScalable = false
+    }
+}
+
+@PART[tg_bo]:NEEDS[!RemoteTech]:BEFORE[zzzRealismOverhaul]
+{
+    MODULE
+    {
+        name = ModuleConfigurableAntenna
+        referenceGain = 2.22
+        isScalable = false
+    }
+}
+
+@PART[tg_sa]:NEEDS[!RemoteTech]:BEFORE[zzzRealismOverhaul]
+{
+    MODULE
+    {
+        name = ModuleConfigurableAntenna
+        referenceGain = 1.12
+        isScalable = false
+    }
+}
+
+@PART[rn_tks]:NEEDS[!RemoteTech]:BEFORE[zzzRealismOverhaul]
+{
+    MODULE
+    {
+        name = ModuleConfigurableAntenna
+        referenceGain = 1.65
+        isScalable = false
+    }
+}
+
+@PART[rn_va_capsule]:NEEDS[!RemoteTech]:BEFORE[zzzRealismOverhaul]
+{
+    MODULE
+    {
+        name = ModuleConfigurableAntenna
+        referenceGain = 1.51
+        isScalable = false
+    }
+}
+
+@PART[rn_voskhod_sc]:NEEDS[!RemoteTech]:BEFORE[zzzRealismOverhaul]
+{
+    MODULE
+    {
+        name = ModuleConfigurableAntenna
+        referenceGain = 1.07
+        isScalable = false
+    }
+}
+
+@PART[rn_vostok_sc]:NEEDS[!RemoteTech]:BEFORE[zzzRealismOverhaul]
+{
+    MODULE
+    {
+        name = ModuleConfigurableAntenna
+        referenceGain = 1.07
+        isScalable = false
+    }
+}
+
+@PART[rn_vostok_tdu]:NEEDS[!RemoteTech]:BEFORE[zzzRealismOverhaul]
+{
+    MODULE
+    {
+        name = ModuleConfigurableAntenna
+        referenceGain = 1.14
+        isScalable = false
+    }
+}
+
+@PART[rn_zond_sa]:NEEDS[!RemoteTech]:BEFORE[zzzRealismOverhaul]
+{
+    MODULE
+    {
+        name = ModuleConfigurableAntenna
+        referenceGain = 1.47
+        isScalable = false
+    }
+}
+
+@PART[rn_zond_top]:NEEDS[!RemoteTech]:BEFORE[zzzRealismOverhaul]
+{
+    MODULE
+    {
+        name = ModuleConfigurableAntenna
+        referenceGain = 2.24
+        isScalable = false
+    }
+}
+
+@PART[rn_zond_asas]:NEEDS[!RemoteTech]:BEFORE[zzzRealismOverhaul]
+{
+    MODULE
+    {
+        name = ModuleConfigurableAntenna
+        referenceGain = 1.03
+        isScalable = false
+    }
+}
+
+
+// RN_Soviet_Probes
+@PART[sputnik1]:NEEDS[!RemoteTech]:BEFORE[zzzRealismOverhaul]
+{
+    MODULE
+    {
+        name = ModuleConfigurableAntenna
+        referenceGain = 1.28
+        isScalable = false
+    }
+}
+
+@PART[sputnik2]:NEEDS[!RemoteTech]:BEFORE[zzzRealismOverhaul]
+{
+    MODULE
+    {
+        name = ModuleConfigurableAntenna
+        referenceGain = 1.44
+        isScalable = false
+    }
+}
+
+@PART[sputnik3]:NEEDS[!RemoteTech]:BEFORE[zzzRealismOverhaul]
+{
+    MODULE
+    {
+        name = ModuleConfigurableAntenna
+        referenceGain = 1.65
+        isScalable = false
+    }
+}
+
+@PART[luna_radio]:NEEDS[!RemoteTech]:BEFORE[zzzRealismOverhaul]
+{
+    MODULE
+    {
+        name = ModuleConfigurableAntenna
+        referenceGain = 2.11
+        isScalable = false
+    }
+}
+
+@PART[l11_radio]:NEEDS[!RemoteTech]:BEFORE[zzzRealismOverhaul]
+{
+    MODULE
+    {
+        name = ModuleConfigurableAntenna
+        referenceGain = 2.11
+        isScalable = false
+    }
+}
+
+@PART[luna2]:NEEDS[!RemoteTech]:BEFORE[zzzRealismOverhaul]
+{
+    MODULE
+    {
+        name = ModuleConfigurableAntenna
+        referenceGain = 1.58
+        isScalable = false
+    }
+}
+
+@PART[luna3]:NEEDS[!RemoteTech]:BEFORE[zzzRealismOverhaul]
+{
+    MODULE
+    {
+        name = ModuleConfigurableAntenna
+        referenceGain = 1.53
+        isScalable = false
+    }
+}
+
+@PART[luna9_als]:NEEDS[!RemoteTech]:BEFORE[zzzRealismOverhaul]
+{
+    MODULE
+    {
+        name = ModuleConfigurableAntenna
+        referenceGain = 1.6
+        isScalable = false
+    }
+}
+
+@PART[luna_als]:NEEDS[!RemoteTech]:BEFORE[zzzRealismOverhaul]
+{
+    MODULE
+    {
+        name = ModuleConfigurableAntenna
+        referenceGain = 1.7
+        isScalable = false
+    }
+}
+
+@PART[luna11_als]:NEEDS[!RemoteTech]:BEFORE[zzzRealismOverhaul]
+{
+    MODULE
+    {
+        name = ModuleConfigurableAntenna
+        referenceGain = 1.76
+        isScalable = false
+    }
+}
+
+@PART[luna13_als]:NEEDS[!RemoteTech]:BEFORE[zzzRealismOverhaul]
+{
+    MODULE
+    {
+        name = ModuleConfigurableAntenna
+        referenceGain = 1.61
+        isScalable = false
+    }
+}
+
+@PART[molniya1]:NEEDS[!RemoteTech]:BEFORE[zzzRealismOverhaul]
+{
+    MODULE
+    {
+        name = ModuleConfigurableAntenna
+        diameter = 1.2
+        isScalable = false
+    }
+}
+
+@PART[molniya_asas]:NEEDS[!RemoteTech]:BEFORE[zzzRealismOverhaul]
+{
+    MODULE
+    {
+        name = ModuleConfigurableAntenna
+        referenceGain = 1.025
+        isScalable = false
+    }
+}
+
+@PART[polyot]:NEEDS[!RemoteTech]:BEFORE[zzzRealismOverhaul]
+{
+    MODULE
+    {
+        name = ModuleConfigurableAntenna
+        diameter = 1.75
+        isScalable = false
+    }
+}
+
+// RN_US_Probes
+@PART[rn_cassini]:NEEDS[!RemoteTech]:BEFORE[zzzRealismOverhaul]
+{
+    MODULE
+    {
+        name = ModuleConfigurableAntenna
+        diameter = 3.9624
+        isScalable = false
+    }
+}
+
+@PART[rn_huygens]:NEEDS[!RemoteTech]:BEFORE[zzzRealismOverhaul]
+{
+    MODULE
+    {
+        name = ModuleConfigurableAntenna
+        referenceGain = 1.79
+        isScalable = false
+    }
+}
+
+@PART[eos_aqua]:NEEDS[!RemoteTech]:BEFORE[zzzRealismOverhaul]
+{
+    MODULE
+    {
+        name = ModuleConfigurableAntenna
+        referenceGain = 2.45
+        isScalable = false
+    }
+}
+
+@PART[eos_aura]:NEEDS[!RemoteTech]:BEFORE[zzzRealismOverhaul]
+{
+    MODULE
+    {
+        name = ModuleConfigurableAntenna
+        referenceGain = 2.46
+        isScalable = false
+    }
+}
+
+@PART[eos_terra]:NEEDS[!RemoteTech]:BEFORE[zzzRealismOverhaul]
+{
+    MODULE
+    {
+        name = ModuleConfigurableAntenna
+        diameter = 0.92
+        isScalable = false
+    }
+}
+
+@PART[eos_tdrs]:NEEDS[!RemoteTech]:BEFORE[zzzRealismOverhaul]
+{
+    MODULE
+    {
+        name = ModuleConfigurableAntenna
+        diameter = 9.144
+        isScalable = false
+    }
+}
+
+@PART[explorer_6]:NEEDS[!RemoteTech]:BEFORE[zzzRealismOverhaul]
+{
+    MODULE
+    {
+        name = ModuleConfigurableAntenna
+        referenceGain = 1.56
+        isScalable = false
+    }
+}
+
+@PART[rn_tdrs_ag]:NEEDS[!RemoteTech]:BEFORE[zzzRealismOverhaul]
+{
+    MODULE
+    {
+        name = ModuleConfigurableAntenna
+        diameter = 9.93648
+        isScalable = false
+    }
+}
+
+@PART[tiros-1]:NEEDS[!RemoteTech]:BEFORE[zzzRealismOverhaul]
+{
+    MODULE
+    {
+        name = ModuleConfigurableAntenna
+        referenceGain = 1.66
+        isScalable = false
+    }
+}
+
+@PART[transit2a]:NEEDS[!RemoteTech]:BEFORE[zzzRealismOverhaul]
+{
+    MODULE
+    {
+        name = ModuleConfigurableAntenna
+        referenceGain = 1.54
+        isScalable = false
+    }
+}
+
+@PART[galileo_mb]:NEEDS[!RemoteTech]:BEFORE[zzzRealismOverhaul]
+{
+    MODULE
+    {
+        name = ModuleConfigurableAntenna
+        referenceGain = 2.83
+        isScalable = false
+    }
+}
+
+@PART[gdish_intended]:NEEDS[!RemoteTech]:BEFORE[zzzRealismOverhaul]
+{
+    MODULE
+    {
+        name = ModuleConfigurableAntenna
+        diameter = 4.8768
+        isScalable = false
+    }
+}
+
+@PART[galileo_aprobe]:NEEDS[!RemoteTech]:BEFORE[zzzRealismOverhaul]
+{
+    MODULE
+    {
+        name = ModuleConfigurableAntenna
+        referenceGain = 1.68
+        isScalable = false
+    }
+}
+
+@PART[grab-1]:NEEDS[!RemoteTech]:BEFORE[zzzRealismOverhaul]
+{
+    MODULE
+    {
+        name = ModuleConfigurableAntenna
+        referenceGain = 1.41
+        isScalable = false
+    }
+}
+
+@PART[ius_top]:NEEDS[!RemoteTech]:BEFORE[zzzRealismOverhaul]
+{
+    MODULE
+    {
+        name = ModuleConfigurableAntenna
+        referenceGain = 1.75
+        isScalable = false
+    }
+}
+
+@PART[rn_juno_spacecraft]:NEEDS[!RemoteTech]:BEFORE[zzzRealismOverhaul]
+{
+    MODULE
+    {
+        name = ModuleConfigurableAntenna
+        diameter = 2.25
+        isScalable = false
+    }
+   !MODULE[ModuleDataTransmitter] { }
+}
+
+@PART[rn_ladee]:NEEDS[!RemoteTech]:BEFORE[zzzRealismOverhaul]
+{
+    MODULE
+    {
+        name = ModuleConfigurableAntenna
+        referenceGain = 2.73
+        isScalable = false
+    }
+}
+
+@PART[rn_lro]:NEEDS[!RemoteTech]:BEFORE[zzzRealismOverhaul]
+{
+    MODULE
+    {
+        name = ModuleConfigurableAntenna
+        referenceGain = 2.73
+        isScalable = false
+    }
+}
+
+@PART[magellan]:NEEDS[!RemoteTech]:BEFORE[zzzRealismOverhaul]
+{
+    MODULE
+    {
+        name = ModuleConfigurableAntenna
+        diameter = 3.6576
+        isScalable = false
+    }
+}
+
+@PART[rn_mariner1_2]:NEEDS[!RemoteTech]:BEFORE[zzzRealismOverhaul]
+{
+    MODULE
+    {
+        name = ModuleConfigurableAntenna
+        referenceGain = 2.25
+        isScalable = false
+    }
+}
+
+@PART[rn_messenger]:NEEDS[!RemoteTech]:BEFORE[zzzRealismOverhaul]
+{
+    MODULE
+    {
+        name = ModuleConfigurableAntenna
+        referenceGain = 2.53
+        isScalable = false
+    }
+}
+
+@PART[neo_deepimpact]:NEEDS[!RemoteTech]:BEFORE[zzzRealismOverhaul]
+{
+    MODULE
+    {
+        name = ModuleConfigurableAntenna
+        diameter = 1
+        isScalable = false
+    }
+}
+
+@PART[neo_deepimpact_impactor]:NEEDS[!RemoteTech]:BEFORE[zzzRealismOverhaul]
+{
+    MODULE
+    {
+        name = ModuleConfigurableAntenna
+        referenceGain = 1.81
+        isScalable = false
+    }
+}
+
+@PART[neo_dawn]:NEEDS[!RemoteTech]:BEFORE[zzzRealismOverhaul]
+{
+    MODULE
+    {
+        name = ModuleConfigurableAntenna
+        diameter = 1.524
+        isScalable = false
+    }
+}
+
+@PART[neo_ds1]:NEEDS[!RemoteTech]:BEFORE[zzzRealismOverhaul]
+{
+    MODULE
+    {
+        name = ModuleConfigurableAntenna
+        referenceGain = 2.75
+        isScalable = false
+    }
+}
+
+@PART[neo_near]:NEEDS[!RemoteTech]:BEFORE[zzzRealismOverhaul]
+{
+    MODULE
+    {
+        name = ModuleConfigurableAntenna
+        diameter = 1.5
+        isScalable = false
+    }
+}
+
+@PART[neo_stardust]:NEEDS[!RemoteTech]:BEFORE[zzzRealismOverhaul]
+{
+    MODULE
+    {
+        name = ModuleConfigurableAntenna
+        diameter = 0.6096
+        isScalable = false
+    }
+}
+
+@PART[neo_stardust_collector]:NEEDS[!RemoteTech]:BEFORE[zzzRealismOverhaul]
+{
+    MODULE
+    {
+        name = ModuleConfigurableAntenna
+        referenceGain = 1.52
+        isScalable = false
+    }
+}
+
+@PART[neo_ulysses]:NEEDS[!RemoteTech]:BEFORE[zzzRealismOverhaul]
+{
+    MODULE
+    {
+        name = ModuleConfigurableAntenna
+        diameter = 1.65
+        isScalable = false
+    }
+}
+
+@PART[rn_new_horizons]:NEEDS[!RemoteTech]:BEFORE[zzzRealismOverhaul]
+{
+    MODULE
+    {
+        name = ModuleConfigurableAntenna
+        diameter = 2.1
+        isScalable = false
+    }
+}
+
+@PART[pioneer_0_1_2]:NEEDS[!RemoteTech]:BEFORE[zzzRealismOverhaul]
+{
+    MODULE
+    {
+        name = ModuleConfigurableAntenna
+        referenceGain = 1.52
+        isScalable = false
+    }
+}
+
+@PART[pioneer_3_4]:NEEDS[!RemoteTech]:BEFORE[zzzRealismOverhaul]
+{
+    MODULE
+    {
+        name = ModuleConfigurableAntenna
+        referenceGain = 1.42
+        isScalable = false
+    }
+}
+
+@PART[pioneer_5]:NEEDS[!RemoteTech]:BEFORE[zzzRealismOverhaul]
+{
+    MODULE
+    {
+        name = ModuleConfigurableAntenna
+        referenceGain = 1.87
+        isScalable = false
+    }
+}
+
+@PART[pioneer_6_7_8_9]:NEEDS[!RemoteTech]:BEFORE[zzzRealismOverhaul]
+{
+    MODULE
+    {
+        name = ModuleConfigurableAntenna
+        referenceGain = 3.75
+        isScalable = false
+    }
+}
+
+@PART[pioneer_10_11]:NEEDS[!RemoteTech]:BEFORE[zzzRealismOverhaul]
+{
+    MODULE
+    {
+        name = ModuleConfigurableAntenna
+        diameter = 2.74
+        isScalable = false
+    }
+}
+
+@PART[rn_surveyor3]:NEEDS[!RemoteTech]:BEFORE[zzzRealismOverhaul]
+{
+    MODULE
+    {
+        name = ModuleConfigurableAntenna
+        referenceGain = 2.25
+        isScalable = false
+    }
+}
+
+@PART[rn_surveyor_solar]:NEEDS[!RemoteTech]:BEFORE[zzzRealismOverhaul]
+{
+    MODULE
+    {
+        name = ModuleConfigurableAntenna
+        referenceGain = 3.25
+        isScalable = false
+    }
+}
+
+@PART[vanguard-1]:NEEDS[!RemoteTech]:BEFORE[zzzRealismOverhaul]
+{
+    MODULE
+    {
+        name = ModuleConfigurableAntenna
+        referenceGain = 1.22
+        isScalable = false
+    }
+}
+
+@PART[vanguard-2]:NEEDS[!RemoteTech]:BEFORE[zzzRealismOverhaul]
+{
+    MODULE
+    {
+        name = ModuleConfigurableAntenna
+        referenceGain = 1.36
+        isScalable = false
+    }
+}
+
+@PART[vanguard-3]:NEEDS[!RemoteTech]:BEFORE[zzzRealismOverhaul]
+{
+    MODULE
+    {
+        name = ModuleConfigurableAntenna
+        referenceGain = 1.43
+        isScalable = false
+    }
+}
+
+@PART[rn_voyager]:NEEDS[!RemoteTech]:BEFORE[zzzRealismOverhaul]
+{
+    MODULE
+    {
+        name = ModuleConfigurableAntenna
+        diameter = 3.6576
+        isScalable = false
+    }
+}
+
+//RemoteTechRedev/RemoteTech-Antennas
+@PART[RTGigaDish1]:NEEDS[!RemoteTech,RemoteTech-Antennas]:BEFORE[zzzRealismOverhaul]
+{
+    MODULE
+    {
+        name = ModuleConfigurableAntenna
+        diameter = 6
+    }
+}
+
+@PART[RTGigaDish2]:NEEDS[!RemoteTech,RemoteTech-Antennas]:BEFORE[zzzRealismOverhaul]
+{
+    MODULE
+    {
+        name = ModuleConfigurableAntenna
+        diameter = 5
+    }
+}
+
+-PART[RTLongAntenna2]:NEEDS[!RemoteTech,RemoteTech-Antennas]:BEFORE[zzzRealismOverhaul] {}
+
+@PART[RTLongAntenna3]:NEEDS[!RemoteTech,RemoteTech-Antennas]:BEFORE[zzzRealismOverhaul]
+{
+    MODULE
+    {
+        name = ModuleConfigurableAntenna
+        referenceGain = 1.35
+    }
+}
+
+@PART[RTLongDish2]:NEEDS[!RemoteTech,RemoteTech-Antennas]:BEFORE[zzzRealismOverhaul]
+{
+    MODULE
+    {
+        name = ModuleConfigurableAntenna
+        diameter = 2.5
+    }
+}
+
+@PART[RTShortDish2]:NEEDS[!RemoteTech,RemoteTech-Antennas]:BEFORE[zzzRealismOverhaul]
+{
+    MODULE
+    {
+        name = ModuleConfigurableAntenna
+        diameter = 1.3
+    }
+}
+
+// ROCapsules
+@PART[ROC-ApolloCM]:NEEDS[!RemoteTech]:BEFORE[zzzRealismOverhaul]
+{
+    MODULE
+    {
+        name = ModuleConfigurableAntenna
+        referenceGain = 1.17
+        isScalable = false
+    }
+}
+
+@PART[ROC-ApolloHGA]:NEEDS[!RemoteTech]:BEFORE[zzzRealismOverhaul]
+{
+    MODULE
+    {
+        name = ModuleConfigurableAntenna
+        diameter = 3
+        isScalable = false
+    }
+}
+
+@PART[ROC-LEMAscent]:NEEDS[!RemoteTech]:BEFORE[zzzRealismOverhaul]
+{
+    MODULE
+    {
+        name = ModuleConfigurableAntenna
+        referenceGain = 1.56
+        isScalable = false
+    }
+}
+
+@PART[ROC-LEMRover]:NEEDS[!RemoteTech]:BEFORE[zzzRealismOverhaul]
+{
+    MODULE
+    {
+        name = ModuleConfigurableAntenna
+        referenceGain = 1.25
+        isScalable = false
+    }
+}
+
+@PART[ROC-MercuryCM]:NEEDS[!RemoteTech]:BEFORE[zzzRealismOverhaul]
+{
+    MODULE
+    {
+        name = ModuleConfigurableAntenna
+        referenceGain = 1.11
+        isScalable = false
+    }
+}
+
+@PART[ROC-MercuryNose]:NEEDS[!RemoteTech]:BEFORE[zzzRealismOverhaul]
+{
+    MODULE
+    {
+        name = ModuleConfigurableAntenna
+        referenceGain = 1.15
+        isScalable = false
+    }
+}
+
+@PART[ROC-VoskhodCapsule]:NEEDS[!RemoteTech]:BEFORE[zzzRealismOverhaul]
+{
+    MODULE
+    {
+        name = ModuleConfigurableAntenna
+        referenceGain = 1.07
+        isScalable = false
+    }
+}
+
+@PART[ROC-VostokCapsule]:NEEDS[!RemoteTech]:BEFORE[zzzRealismOverhaul]
+{
+    MODULE
+    {
+        name = ModuleConfigurableAntenna
+        referenceGain = 1.07
+        isScalable = false
+    }
+}
+
+@PART[ROC-VostokAntenna]:NEEDS[!RemoteTech]:BEFORE[zzzRealismOverhaul]
+{
+    MODULE
+    {
+        name = ModuleConfigurableAntenna
+        referenceGain = 1.05
+        isScalable = false
+    }
+}
+
+@PART[ROC-VostokService]:NEEDS[!RemoteTech]:BEFORE[zzzRealismOverhaul]
+{
+    MODULE
+    {
+        name = ModuleConfigurableAntenna
+        referenceGain = 1.14
+        isScalable = false
+    }
+}
+
+// SXT
+@PART[SXTClyde]:NEEDS[!RemoteTech]:BEFORE[zzzRealismOverhaul]
+{
+    MODULE
+    {
+        name = ModuleConfigurableAntenna
+        referenceGain = 1.1
+        isScalable = false
+    }
+}
+
+@PART[SXTBuzzard]:NEEDS[!RemoteTech]:BEFORE[zzzRealismOverhaul]
+{
+    MODULE
+    {
+        name = ModuleConfigurableAntenna
+        referenceGain = 1.09
+        isScalable = false
+    }
+}
+
+@PART[SXTke111]:NEEDS[!RemoteTech]:BEFORE[zzzRealismOverhaul]
+{
+    MODULE
+    {
+        name = ModuleConfigurableAntenna
+        referenceGain = 1.1
+        isScalable = false
+    }
+}
+
+@PART[25mKossak]:NEEDS[!RemoteTech]:BEFORE[zzzRealismOverhaul]
+{
+    MODULE
+    {
+        name = ModuleConfigurableAntenna
+        referenceGain = 1.15
+        isScalable = false
+    }
+}
+
+@PART[SXTmeadowlark]:NEEDS[!RemoteTech]:BEFORE[zzzRealismOverhaul]
+{
+    MODULE
+    {
+        name = ModuleConfigurableAntenna
+        referenceGain = 1.09
+        isScalable = false
+    }
+}
+
+@PART[SXTEntenteCordiale]:NEEDS[!RemoteTech]:BEFORE[zzzRealismOverhaul]
+{
+    MODULE
+    {
+        name = ModuleConfigurableAntenna
+        referenceGain = 1.16
+        isScalable = false
+    }
+}
+
+@PART[SXTGoose]:NEEDS[!RemoteTech]:BEFORE[zzzRealismOverhaul]
+{
+    MODULE
+    {
+        name = ModuleConfigurableAntenna
+        referenceGain = 1.15
+        isScalable = false
+    }
+}
+
+@PART[SXTmk3Cockpit52]:NEEDS[!RemoteTech]:BEFORE[zzzRealismOverhaul]
+{
+    MODULE
+    {
+        name = ModuleConfigurableAntenna
+        referenceGain = 1.16
+        isScalable = false
+    }
+}
+
+@PART[SXTOsaulNoseCockpitAn225]:NEEDS[!RemoteTech]:BEFORE[zzzRealismOverhaul]
+{
+    MODULE
+    {
+        name = ModuleConfigurableAntenna
+        referenceGain = 1.2
+        isScalable = false
+    }
+}
+
+@PART[SXTOsualRadCockpit]:NEEDS[!RemoteTech]:BEFORE[zzzRealismOverhaul]
+{
+    MODULE
+    {
+        name = ModuleConfigurableAntenna
+        referenceGain = 1.17
+        isScalable = false
+    }
+}
+
+// Attention
+// Failsafe fix patch for https://github.com/KSP-RO/RealismOverhaul/issues/2105
+// as long as not merged
+
+@PART[SXTsciencenosecone]:AFTER[RealismOverhaul]
+{
+	@mass = 0.04
+}
+
+@PART[SXTsciencenosecone]:NEEDS[!RemoteTech]:BEFORE[zzzRealismOverhaul]
+{
+    MODULE
+    {
+        name = ModuleConfigurableAntenna
+        referenceGain = 1.42
+        isScalable = false
+    }
+}
+
+@PART[SXT375mProbe]:NEEDS[!RemoteTech]:BEFORE[zzzRealismOverhaul]
+{
+    MODULE
+    {
+        name = ModuleConfigurableAntenna
+        referenceGain = 1.13
+        isScalable = false
+    }
+}
+
+@PART[SXTAntenna]:NEEDS[!RemoteTech]:BEFORE[zzzRealismOverhaul]
+{
+    MODULE
+    {
+        name = ModuleConfigurableAntenna
+        referenceGain = 1.44
+        isScalable = false
+    }
+}
+
+@PART[SXTSputnik]:NEEDS[!RemoteTech]:BEFORE[zzzRealismOverhaul]
+{
+    MODULE
+    {
+        name = ModuleConfigurableAntenna
+        referenceGain = 1.28
+        isScalable = false
+    }
+}
+
+@PART[SXTHECSRanger]:NEEDS[!RemoteTech]:BEFORE[zzzRealismOverhaul]
+{
+    MODULE
+    {
+        name = ModuleConfigurableAntenna
+        referenceGain = 2.25
+        isScalable = false
+    }
+}
+
+@PART[SXTAlouetteI]:NEEDS[!RemoteTech]:BEFORE[zzzRealismOverhaul]
+{
+    MODULE
+    {
+        name = ModuleConfigurableAntenna
+        referenceGain = 1.07
+        isScalable = false
+    }
+}
+
+@PART[MEMLanderSXT]:NEEDS[!RemoteTech]:BEFORE[zzzRealismOverhaul]
+{
+    MODULE
+    {
+        name = ModuleConfigurableAntenna
+        referenceGain = 1.56
+        isScalable = false
+    }
+}
+
+
+// Taerobee
+@PART[Bumper_Control]:NEEDS[!RemoteTech]:BEFORE[zzzRealismOverhaul]
+{
+    MODULE
+    {
+        name = ModuleConfigurableAntenna
+        referenceGain = 1.1
+        isScalable = false
+    }
+}
+
+@PART[taerobee_control]:NEEDS[!RemoteTech]:BEFORE[zzzRealismOverhaul]
+{
+    MODULE
+    {
+        name = ModuleConfigurableAntenna
+        referenceGain = 1.05
+        isScalable = false
+    }
+}
+
+@PART[X1_Crew]:NEEDS[!RemoteTech]:BEFORE[zzzRealismOverhaul]
+{
+    MODULE
+    {
+        name = ModuleConfigurableAntenna
+        referenceGain = 1.09
+        isScalable = false
+    }
+}
+
+// TokamakIndustries
+@PART[TIinflatoFlat]:NEEDS[!RemoteTech]:BEFORE[zzzRealismOverhaul]
+{
+    MODULE
+    {
+        name = ModuleConfigurableAntenna
+        referenceGain = 1.23
+        isScalable = false
+    }
+}
+
+@PART[TIorbitalorb]:NEEDS[!RemoteTech]:BEFORE[zzzRealismOverhaul]
+{
+    MODULE
+    {
+        name = ModuleConfigurableAntenna
+        referenceGain = 1.12
+        isScalable = false
+    }
+}
+
+// UniversalStorage2
+@PART[USGuidanceComputer]:NEEDS[!RemoteTech]:BEFORE[zzzRealismOverhaul]
+{
+    MODULE
+    {
+        name = ModuleConfigurableAntenna
+        referenceGain = 1.46
+        isScalable = false
+    }
+}
+
+@PART[USGuidanceComputer2]:NEEDS[!RemoteTech]:BEFORE[zzzRealismOverhaul]
+{
+    MODULE
+    {
+        name = ModuleConfigurableAntenna
+        referenceGain = 1.57
+        isScalable = false
+    }
+}
+
+@PART[USGuidanceComputer3]:NEEDS[!RemoteTech]:BEFORE[zzzRealismOverhaul]
+{
+    MODULE
+    {
+        name = ModuleConfigurableAntenna
+        referenceGain = 1.68
+        isScalable = false
+    }
+}
+
+@PART[USDoubleProbeCore]:NEEDS[!RemoteTech]:BEFORE[zzzRealismOverhaul]
+{
+    MODULE
+    {
+        name = ModuleConfigurableAntenna
+        referenceGain = 1.79
+        isScalable = false
+    }
+}
+
+// VenStockRevamp
+@PART[MK2VApod]:NEEDS[!RemoteTech]:BEFORE[zzzRealismOverhaul]
+{
+    MODULE
+    {
+        name = ModuleConfigurableAntenna
+        referenceGain = 1.15
+        isScalable = false
+    }
+}
+
+//
+// now to the generic patches
+//
+// these patches apply after the dedicated patches, which are BEFORE[zzzRealismOverhaul]
+
+// for parts that got ModuleDataTransmitter but no antennaPower (yes, they exist)
+@PART[*]:HAS[@MODULE[ModuleDataTransmitter]:HAS[~antennaPower[>0]],!MODULE[ModuleConfigurableAntenna]]:NEEDS[!RemoteTech]:FOR[zzzRealismOverhaul]
+{
+    @MODULE[ModuleDataTransmitter]
+    {
+        antennaPower = 100000
+    }
+}
+
+@PART[*]:HAS[@MODULE[ModuleDataTransmitter]:HAS[~antennaType[]],!MODULE[ModuleConfigurableAntenna]]:NEEDS[!RemoteTech]:FOR[zzzRealismOverhaul]
+{
+    @MODULE[ModuleDataTransmitter]
+    {
+        antennaType = INTERNAL
+    }
+}
+
+// when it was a RELAY we assume it's a dish for now
+@PART[*]:HAS[@MODULE[ModuleDataTransmitter]:HAS[#antennaType[RELAY]],!MODULE[ModuleConfigurableAntenna]]:NEEDS[!RemoteTech]:FOR[zzzRealismOverhaul]
+{
+    MODULE
+    {
+        name = ModuleConfigurableAntenna
+        diameter = 1
+        isScalable = false
+    }
+}
+
+// when it was a DIRECT without ModuleCommand we assume it's a dedicated omni antenna with higher gain than built-in omni antennas
+@PART[*]:HAS[@MODULE[ModuleDataTransmitter]:HAS[#antennaType[DIRECT]],!MODULE[ModuleCommand],!MODULE[ModuleConfigurableAntenna]]:NEEDS[!RemoteTech]:FOR[zzzRealismOverhaul]
+{
+    MODULE
+    {
+        name = ModuleConfigurableAntenna
+        referenceGain = #$/MODULE[ModuleDataTransmitter]/antennaPower$
+        @referenceGain != 0.5
+        @referenceGain != 0.5
+        @referenceGain /= 50
+        tempmass = #$/mass$
+        @tempmass != 0.5
+        @tempmass != 0.5
+        @referenceGain *= #$tempmass$
+        @referenceGain += 1
+        @referenceGain ^= :(.\d\d)\d+$:$1: // cut after two decimal places
+        isScalable = false
+    }
+}
+
+// when it was a DIRECT with ModuleCommand we assume it's a built-in omni antenna with lower gain than dedicated omni antennas
+@PART[*]:HAS[@MODULE[ModuleDataTransmitter]:HAS[#antennaType[DIRECT]],@MODULE[ModuleCommand],!MODULE[ModuleConfigurableAntenna]]:NEEDS[!RemoteTech]:FOR[zzzRealismOverhaul]
+{
+    MODULE
+    {
+        name = ModuleConfigurableAntenna
+        referenceGain = #$/MODULE[ModuleDataTransmitter]/antennaPower$
+        @referenceGain != 0.5
+        @referenceGain != 0.5
+        @referenceGain /= 150
+        tempmass = #$/mass$
+        @tempmass != 0.5
+        @tempmass != 0.5
+        @referenceGain *= #$tempmass$
+        @referenceGain += 1
+        @referenceGain ^= :(.\d\d)\d+$:$1: // cut after two decimal places
+        isScalable = false
+    }
+}
+
+// when it was an INTERNAL we assume it's a (built-in) low gain telemetry antenna
+@PART[*]:HAS[@MODULE[ModuleDataTransmitter]:HAS[#antennaType[INTERNAL]],!MODULE[ModuleConfigurableAntenna]]:NEEDS[!RemoteTech]:FOR[zzzRealismOverhaul]
+{
+    MODULE
+    {
+        name = ModuleConfigurableAntenna
+        referenceGain = #$/MODULE[ModuleDataTransmitter]/antennaPower$
+        @referenceGain != 0.5
+        @referenceGain != 0.5
+        @referenceGain /= 150
+        tempmass = #$/mass$
+        @tempmass != 0.5
+        @tempmass != 0.5
+        @referenceGain *= #$tempmass$
+        @referenceGain += 1
+        @referenceGain ^= :(.\d\d)\d+$:$1: // cut after two decimal places
+        isScalable = false
+    }
+}
+
+// when it's a ModuleAvionics/ModuleCommand without an antenna right now we give it a (built-in) low gain telemetry antenna
+@PART[*]:HAS[!MODULE[ModuleDataTransmitter],!MODULE[ModuleConfigurableAntenna],@MODULE[ModuleAvionics],@MODULE[ModuleCommand]]:NEEDS[!RemoteTech]:FOR[zzzRealismOverhaul]
+{
+    MODULE
+    {
+        name = ModuleConfigurableAntenna
+        referenceGain = 1
+        tempmass = #$/mass$
+        @tempmass != 0.5
+        @tempmass != 0.5
+        @referenceGain *= #$tempmass$
+        @referenceGain += 1
+        @referenceGain ^= :(.\d\d)\d+$:$1: // cut after two decimal places
+        isScalable = false
+    }
+}
+
+// if the referenceGain is below 0.01 we change it to 0.01 (highpass-filter)
+@PART[*]:HAS[@MODULE[ModuleConfigurableAntenna]:HAS[#referenceGain[<0.01]]]:NEEDS[!RemoteTech]:AFTER[zzzRealismOverhaul]
+{
+    @MODULE[ModuleConfigurableAntenna]
+    {
+        @referenceGain = 0.01
+    }
+}
+
+// if the referenceGain is above 4 we change it to 4.0 (lowpass-filter)
+@PART[*]:HAS[@MODULE[ModuleConfigurableAntenna]:HAS[#referenceGain[>4]]]:NEEDS[!RemoteTech]:AFTER[zzzRealismOverhaul]
+{
+    @MODULE[ModuleConfigurableAntenna]
+    {
+        @referenceGain = 4.0
+    }
+}
+
+// for any part that got ModuleConfigurableAntenna now and still got ModuleDataTransmitter we remove ModuleDataTransmitter
+@PART[*]:HAS[@MODULE[ModuleConfigurableAntenna],@MODULE[ModuleDataTransmitter]]:NEEDS[!RemoteTech]:AFTER[zzzRealismOverhaul]
+{
+    !MODULE[ModuleDataTransmitter],* { }
+}
+
+// for any part that got ModuleConfigurableAntenna we remove the tempmass value
+@PART[*]:HAS[@MODULE[ModuleConfigurableAntenna]:HAS[#tempmass[>0]]]:NEEDS[!RemoteTech]:AFTER[zzzRealismOverhaul]
+{
+    @MODULE[ModuleConfigurableAntenna]
+    {
+        !tempmass = delete
+    }
+}
